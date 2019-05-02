@@ -75,9 +75,9 @@
 //  else{
 //      console.log("You are obese");
 //  }
-//2. let n = prompt("Enter n");
-// let tich = 0;
-// for( let i = 0; i <= n; i++){
-//     tich += i;
-// }
-// console.log(tich);
+ let n = prompt("Enter n");
+let tich = 1;
+for( let i = 1; i <= n; i++){
+    tich *= i;
+}
+console.log(tich);
