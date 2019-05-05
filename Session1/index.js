@@ -15,6 +15,6 @@
 // 7. Chuyển qua tab console để xem kết quả
 
 // LOOPS:vòng lặp
-for(let i = 0; i < 10; i++) {
-    console.log(i);    
-}
+// for(let i = 0; i < 10; i++) {
+//     console.log(i);    
+// }
