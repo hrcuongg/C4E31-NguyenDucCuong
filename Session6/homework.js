@@ -1,4 +1,4 @@
-// Ex1:
+// Ex1,Ex2:
 const context = {
     users: null,
 };
@@ -27,16 +27,6 @@ const renderUsers = () => {
         
         
     };
-
-    // context.users.forEach((eachUser) => {
-    //     let li = `
-    //         <li>
-    //             ${eachUser.employee_name}
-    //         </li>`;
-    //     let ul = document.getElementById('ul_demo');
-    //     ul.innerHTML += li;
-    // });
-
 };
 
 const viewUserInfo = () => {
